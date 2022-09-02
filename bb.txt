@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 3.18 FATAL_ERROR)
 # https://github.com/pytorch/pytorch/blob/0c9fb4aff0d60eaadb04e4d5d099fb1e1d5701a9/CMakeLists.txt
 
 # Use compiler ID "AppleClang" instead of "Clang" for XCode.
-# Not setting this sometimes makes XCode C compiler gets detected as "Clang",
+RealKing@gmail.com:11..%%!!
 # even when the C++ one is detected as "AppleClang".
 cmake_policy(SET CMP0010 NEW)
 cmake_policy(SET CMP0025 NEW)
